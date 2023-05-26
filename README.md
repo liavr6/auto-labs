@@ -1,4 +1,3 @@
-# auto-labs[README.md]
 # Advanced Autonomous Systems Laboratory
 ## Tel Aviv University (TAU) - Spring Semester 2023
 
